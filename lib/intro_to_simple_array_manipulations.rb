@@ -81,7 +81,8 @@ end
 
 def 
   
-  using_shift(arg_of_array)
+  using_shift(array)
+  #-X-  (arg_of_array) // empalm //
   
   array.shift()
   
