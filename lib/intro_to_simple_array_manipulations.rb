@@ -1,3 +1,7 @@
+
+
+# [V]
+
 def 
   
   using_push(array, string)
@@ -13,6 +17,7 @@ end
 
 
 
+# ***
 
 def 
   
@@ -88,6 +93,7 @@ end
 
 
 #[V]
+
 def 
   
   shift_with_args(array)    #XX- arg_of_array)
